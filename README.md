@@ -23,23 +23,23 @@ web框架：Django
 
 ## 目录简介
 
-**apps：**应用包
+**apps：** 应用包
 
-**celery_tasks：**异步任务
+**celery_tasks：** 异步任务
 
-**extra_apps：**xadmin2.0管理
+**extra_apps：** xadmin2.0管理
 
-**Job_Files：**数据库文件
+**Job_Files：** 数据库文件
 
-**static：**静态文件路径
+**static：** 静态文件路径
 
-**static_log：**综合静态文件路径
+**static_log：** 综合静态文件路径
 
-**templates：**html前端模板
+**templates：** html前端模板
 
-**Work：**全局项目配置文件夹
+**Work：** 全局项目配置文件夹
 
-**requirements.txt：**项目依赖包
+**requirements.txt：** 项目依赖包
 
 > 先导入项目依赖包，如果有偏差自行补配下载！
 >
